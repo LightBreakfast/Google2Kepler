@@ -33,7 +33,7 @@ Running G2K.exe will read all the JSON files in the "Semantic Location History" 
 
 From the Kepler.gl Main Page, upload your results.csv
 
-![] (https://media.giphy.com/media/WsdwYKISSQyoyuBufz/giphy.gif)
+![](https://media.giphy.com/media/WsdwYKISSQyoyuBufz/giphy.gif)
 
 ## Step 5 - View and Analyse Your Data
 
