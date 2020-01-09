@@ -42,3 +42,7 @@ From the Kepler.gl Main Page, upload your results.csv
 An example of viewing trips over a time period.
 
 ![](https://media.giphy.com/media/ZbONdTmPq1ON5jKvZT/giphy.gif)
+
+Heat Map of Locations
+
+![](https://i.imgur.com/qWPZC7O.png)
