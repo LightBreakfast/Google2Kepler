@@ -21,7 +21,7 @@ Once you have receieved an email from Google, download the archive via the provi
 
 It will have the following structure
 
-./takeout-<datetime>/Takeout/Location History
+./takeout-XXXXXX/Takeout/Location History
 
 From this directory, copy the entire "Semantic Location History" Folder, and paste it into the same Directory as G2K.exe
 
