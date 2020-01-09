@@ -30,3 +30,15 @@ From this directory, copy the entire "Semantic Location History" Folder, and pas
 Running G2K.exe will read all the JSON files in the "Semantic Location History" Folder, and output it to 'results.csv'. This should take less than a second, but times may vary depending on the quantity of data.
 
 ## Step 4 - Import Data into Kepler.gl
+
+From the Kepler.gl Main Page, upload your results.csv
+
+![] (https://media.giphy.com/media/WsdwYKISSQyoyuBufz/giphy.gif)
+
+## Step 5 - View and Analyse Your Data
+
+[The Kepler.gl documentation is a good place to start.](https://github.com/keplergl/kepler.gl/blob/master/docs/user-guides/a-introduction.md)
+
+An example of viewing trips over a time period.
+
+![](https://media.giphy.com/media/ZbONdTmPq1ON5jKvZT/giphy.gif)
